@@ -1,0 +1,13 @@
+name = "SCP-173, The Sculpture"
+filename = "Sculpture-forge-1.20.1-2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a58c6d1ca7f8dc52cc6d84a78729f55629bfe4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6677767
+project-id = 1000881

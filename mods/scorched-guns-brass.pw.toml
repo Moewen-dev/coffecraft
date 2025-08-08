@@ -1,0 +1,13 @@
+name = "Scorched Guns: Brass"
+filename = "ScorchedBrass-0.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "374a547da9f2467e48412f2f1b32d55ba8a54d47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5593385
+project-id = 1074381

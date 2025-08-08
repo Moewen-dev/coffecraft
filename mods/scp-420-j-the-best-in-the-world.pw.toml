@@ -1,0 +1,13 @@
+name = "SCP-420-J, The best ████ in the world"
+filename = "TheBestWeedInTheWorld-forge-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04a26844bba005fbaab90084a5eca5588f081b49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6837700
+project-id = 1318961

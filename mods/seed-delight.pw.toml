@@ -1,0 +1,13 @@
+name = "Seed Delight"
+filename = "SeedDelight-NeoorForge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e3fe5b22cc6d0fac4863b61f4692a59bf233855"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5734725
+project-id = 1016377
