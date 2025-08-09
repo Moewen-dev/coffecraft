@@ -698,11 +698,6 @@ hash = "588e222f5cf824fb8317bd3800752c8a4a86f3c707f70b35420f8c9a9599fe43"
 metafile = true
 
 [[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7f3913dea0869ca5a9343c30f3cf81cc6dfebf793c5bf5d4201330e540320d97"
-metafile = true
-
-[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "1d461a57d4e64d5cdb416db0ee911c150e0ac08e13335ff525b2b5d0bef5844f"
 metafile = true
@@ -985,11 +980,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
