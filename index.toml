@@ -284,6 +284,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/cozy-foods-milk-tea.pw.toml"
+hash = "dd47260191c9491e07d00c940b8522b6539de18855a2abba0ec9edc4aa2ffd0a"
+metafile = true
+
+[[files]]
 file = "mods/crabbers-delight.pw.toml"
 hash = "184ba506f6f584c6eeda993d5cb27a5f555a8ee761c6c41578a185e10ab142f6"
 metafile = true
@@ -296,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "00b52d33701c32021d9a289fd2b1e3cac09f391b0d3e4be6394126dd5ad4b109"
+metafile = true
+
+[[files]]
+file = "mods/create-air-ducts.pw.toml"
+hash = "24dc7db535e9d7dc76a390b65cf2ce7c2d699ddcda5abe1a698af1d29ff6e9ef"
 metafile = true
 
 [[files]]
@@ -384,6 +394,11 @@ hash = "27c15311ba2022cb1eb86f9a16808799e383f18a49d8d97dfd399686deb3aaa7"
 metafile = true
 
 [[files]]
+file = "mods/create-smart-crafter.pw.toml"
+hash = "7fd2d1ded5af66fa6d32d5f6ad0c7c9d5f98def2b3f430c8d4f64ffb4549ac28"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "c03db408a055967ba95bdc3eccf8e4c9183c5aff1057b3902c6c4889f5cb46f4"
 metafile = true
@@ -453,8 +468,23 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/cyclic.pw.toml"
+hash = "ccf0590501f9cc53137359e3f613d0ebdf83f064b04f4fa84b5285308617e2e8"
+metafile = true
+
+[[files]]
 file = "mods/decoration-delight.pw.toml"
 hash = "84421ee5cb06150490589bab50c7e6f7aa905dbd6f609dcac195460641ff2293"
+metafile = true
+
+[[files]]
+file = "mods/decorative-core.pw.toml"
+hash = "43b17c04759524abb53cfca488ef8e4f3286987a20640f0ddb415c3b2969882f"
+metafile = true
+
+[[files]]
+file = "mods/decostorage.pw.toml"
+hash = "d7248642393c30becf965059d7f61f5aac927aa977458375bc8bbcbf6957e545"
 metafile = true
 
 [[files]]
@@ -523,6 +553,11 @@ hash = "3c9b37d3371ba98daf46062789f9ac721e8dadd0d9e01b5cc52be4ed07379f9d"
 metafile = true
 
 [[files]]
+file = "mods/engineers-decor-ported.pw.toml"
+hash = "46cb477f4a9b2f9b068cc0d3ca3a4a99ee00f08c4892202fb5c3ae8449f3618f"
+metafile = true
+
+[[files]]
 file = "mods/entangled.pw.toml"
 hash = "07f4675d7bbf74292ba194982c1884578b65873929697fdcbd1ab908027e27e4"
 metafile = true
@@ -588,6 +623,11 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "3e8ccc74f161b632cf8eadda6548860bfa58e4970cec1630135b83900e31b98d"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "04a41ef460a5aec46f060cffff5b296e663f1dd40ce1ad39f9f618ed2f8828ff"
 metafile = true
@@ -638,6 +678,11 @@ hash = "73702d36cf62bbd18dbfe60ef402a32fedc7600a3e4f4549109f406f721ae166"
 metafile = true
 
 [[files]]
+file = "mods/gauges-and-switches-ported.pw.toml"
+hash = "3cd4a0825c7667abbeee4389fe7eaac126562c3809ae54eba57096f10845be74"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3e1eb9740fada46d463ae8f5e1f2cf24d5a85532356f7d5173a7c23a0dd8fb53"
 metafile = true
@@ -650,6 +695,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "f532de266ab649ff46f440d6f315eeef677a9176c9fb0a70529c44e38a965e9b"
 metafile = true
 
 [[files]]
@@ -700,6 +750,11 @@ metafile = true
 [[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "1d461a57d4e64d5cdb416db0ee911c150e0ac08e13335ff525b2b5d0bef5844f"
+metafile = true
+
+[[files]]
+file = "mods/iron-jetpacks.pw.toml"
+hash = "1437a6c42052e55b285dc605d65f5e4e816d8fd8f05cba2165aab09ef60bd6df"
 metafile = true
 
 [[files]]
@@ -948,11 +1003,6 @@ hash = "62dd08975bad03bd7b5aa72d2d293dbcd36e2021d2bdb73b2f02204fbe405338"
 metafile = true
 
 [[files]]
-file = "mods/mystical-agriculture.pw.toml"
-hash = "d814326db81848cc655f3019ba089422a8a867398fdb7cfc548b95283b584237"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "58835f3c0296ee974a0aa2f20a4929a2308383b272e4a61ac268ef7967d92583"
 metafile = true
@@ -1020,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
 
 [[files]]
@@ -1305,16 +1360,6 @@ metafile = true
 [[files]]
 file = "mods/the-plague-doctor.pw.toml"
 hash = "5a42e5d1315dd09813f8ae5fbf9ac05fb3ec4ce81db45157c47119f388a864de"
-metafile = true
-
-[[files]]
-file = "mods/the-possessive-mask.pw.toml"
-hash = "2150b637a42ec8965b5736a52ac90aaa0aff9bd3a6a11928663266d6fd6f2b9b"
-metafile = true
-
-[[files]]
-file = "mods/the-sculpture.pw.toml"
-hash = "a96272760851091c4298bd36a1f4213dbabe97d9b87a5e97a078f92b884fdb11"
 metafile = true
 
 [[files]]

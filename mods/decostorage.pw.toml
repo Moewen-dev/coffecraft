@@ -1,0 +1,13 @@
+name = "Decorative Storage"
+filename = "deco_storage-3.3408-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f1f09892b9794e4cc2b4aaa50edb4a1c76fbefa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6843127
+project-id = 826577

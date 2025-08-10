@@ -1,0 +1,13 @@
+name = "Decorative Core"
+filename = "decorative_core-1.0306-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99a254f349f385f781dacd9a50923d421c0b65c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6617750
+project-id = 1247662
